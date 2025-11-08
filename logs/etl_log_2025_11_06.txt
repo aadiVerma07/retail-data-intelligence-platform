@@ -1,0 +1,11 @@
+2025-11-06 19:03:10 | INFO | Logger initialized
+2025-11-06 19:03:10 | INFO | Starting Flipkart ETL Pipeline...
+2025-11-06 19:03:10 | INFO | Orders data extracted: 50000 rows.
+2025-11-06 19:03:10 | INFO | Customers data extracted: 4000 rows.
+2025-11-06 19:03:10 | INFO | City-level revenue transformation completed.
+2025-11-06 19:03:10 | INFO | Category-level transformation completed.
+2025-11-06 19:03:10 | INFO | Orders enriched with customer city info.
+2025-11-06 19:03:11 | INFO | Loaded 16 rows into 'city_revenue'.
+2025-11-06 19:03:11 | INFO | Loaded 80 rows into 'top_categories'.
+2025-11-06 19:03:12 | INFO | Loaded 50000 rows into 'detailed_orders'.
+2025-11-06 19:03:12 | INFO | ETL Pipeline completed successfully.

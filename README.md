@@ -1,11 +1,11 @@
-# 🧠 Retail Data Intelligence Platform  
+# Retail Data Intelligence Platform  
 
 An end-to-end **ETL + API + Analytics** project that extracts, transforms, and visualizes retail sales data.  
 This platform demonstrates how data engineering and analytics come together to power business insights.
 
 ---
 
-## 📘 Overview
+## Overview
 
 The **Retail Data Intelligence Platform** is designed to automate the data flow for retail sales.  
 It performs:
@@ -19,7 +19,7 @@ It’s a fully functional **mini data engineering system**, simulating how real-
 
 ---
 
-## 🧱 System Architecture
+##  System Architecture
 
 +-----------------+
 | Data Sources | ← CSV / API / Mock Generator
@@ -52,7 +52,7 @@ It’s a fully functional **mini data engineering system**, simulating how real-
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 | Category | Tools / Libraries |
 |-----------|-------------------|
@@ -66,25 +66,39 @@ It’s a fully functional **mini data engineering system**, simulating how real-
 
 ---
 
-## 🧩 Features
+## Features
 
-✅ Automated ETL pipeline (Extract → Transform → Load)  
-✅ Configurable data sources (CSV / API / Database)  
-✅ Real-time metrics API with FastAPI  
-✅ Interactive analytics dashboard (Streamlit)  
-✅ Integrated logging and error handling  
-✅ Cloud-ready structure (deploy to AWS easily)  
-✅ Modular codebase with separate layers for ETL, API, and UI  
+ Automated ETL pipeline (Extract → Transform → Load)  
+ Configurable data sources (CSV / API / Database)  
+ Real-time metrics API with FastAPI  
+ Interactive analytics dashboard (Streamlit)  
+ Integrated logging and error handling  
+ Cloud-ready structure (deploy to AWS easily)  
+ Modular codebase with separate layers for ETL, API, and UI  
 
 ---
 
-## 📊 Example KPIs
+##  Example KPIs
 
 The dashboard provides insights like:
 
-- 💰 **Total Revenue by City / Category**  
-- 🛍️ **Top Products by Sales Volume**  
-- 💳 **Payment Methods Breakdown**  
-- 🕒 **Revenue Trends Over Time**  
-- 📦 **Customer & Order Analytics**
+-  **Total Revenue by City / Category**  
+-  **Top Products by Sales Volume**  
+-  **Payment Methods Breakdown**  
+-  **Revenue Trends Over Time**  
+-  **Customer & Order Analytics**
+
+## Author
+
+**Aditya Kumar**  
+Associate Software Engineer @ Accenture  
+🎓 B.Tech in Computer Science (AKTU, 2023)  
+📍 Lucknow, India  
+
+📧 [email](mailto:aadikumar.world@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/adityabkumar/) | [GitHub](https://github.com/aadiVerma07)
+
+
+⭐ **If you found this project useful, please give it a star!**  
+Your support encourages more open-source work
 
